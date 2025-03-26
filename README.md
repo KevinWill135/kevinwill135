@@ -1,16 +1,82 @@
-## Hi there 👋
+## Kevin W. De Paula
+### 👨🏽‍💻 Projeto - Hello World
 
-<!--
-**KevinWill135/kevinwill135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**`Web Developer`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, sou o Kevin Willian C. De Paula, um apaixonado por tecnologia.
+
+Estou iniciando minha jornada como desenvolvedor e atualmente estudo Web Development na Master D. Sei que entrar na área de tecnologia não é fácil, mas estou comprometido em enfrentar qualquer desafio para construir uma carreira sólida e de destaque no mundo DEV.
+
+No momento, meu portfólio ainda está em construção, mas grandes projetos estão a caminho! Enquanto isso, sinta-se à vontade para me seguir e acompanhar minha evolução. Bora crescer juntos? 🚀
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/kevin-de-paula-27b723168/">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=linkedin&logoSource=feather"
+        />
+    </a>
+    <a href="https://www.instagram.com/kevin.dpaula">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-brown.svg?logo=email&logoColor=white&logoSource=feather"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP"
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP"
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+/>
+          

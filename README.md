@@ -11,7 +11,7 @@ Estou iniciando minha jornada como desenvolvedor e atualmente estudo Web Develop
 No momento, meu portfólio ainda está em construção, mas grandes projetos estão a caminho! Enquanto isso, sinta-se à vontade para me seguir e acompanhar minha evolução. Bora crescer juntos? 🚀
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/kevin-will135-de-paula/">
+    <a href="https://www.linkedin.com/in/kevinwill-de-paula/">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 

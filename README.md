@@ -29,7 +29,7 @@ No momento, meu portfólio ainda está em construção, mas grandes projetos est
         <img 
             alt="GENEVENTS Site" 
             title="Meu site" 
-            src="https://custom-icon-badges.demolab.com/badge/fire-red.svg?logo=MySite&logoColor=fff"
+            src="https://custom-icon-badges.demolab.com/badge/MySite-red.svg?logo=fire&logoColor=fff"
         />
     </a>
 </p>

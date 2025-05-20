@@ -25,6 +25,13 @@ No momento, meu portfólio ainda está em construção, mas grandes projetos est
             src="https://custom-icon-badges.demolab.com/badge/Instagram-brown.svg?logo=email&logoColor=white&logoSource=feather"
         />
     </a>
+    <a href="https://genevents.great-site.net/">
+        <img 
+            alt="GENEVENTS Site" 
+            title="Meu site" 
+            src="https://custom-icon-badges.demolab.com/badge/fire-red.svg?logo=MySite&logoColor=fff"
+        />
+    </a>
 </p>
 
 ---
